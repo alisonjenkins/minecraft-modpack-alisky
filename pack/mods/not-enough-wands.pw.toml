@@ -1,0 +1,13 @@
+name = "Not Enough Wands"
+filename = "notenoughwands-1.18-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "690933588b63bdf4ec6270b90eb57b1ba64654eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3646750
+project-id = 235595

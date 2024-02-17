@@ -1,0 +1,16 @@
+name = "AliSkyblock"
+author = "Alison Jenkins"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e4072998aae8c39a4e26987d6919bb97d81c7a3df587b0a2709cd5b572a66175"
+
+[versions]
+forge = "40.2.17"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18.1"]
