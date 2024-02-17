@@ -1,13 +1,13 @@
 name = "All The Tweaks"
-filename = "allthetweaks-1.9.9.9i-1.18.2-40.1.73.jar"
+filename = "allthetweaks-1.9.9.9g-1.18.2-40.1.73.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6a0dd59e5058f7aa2ec86c5a756f68ec90298a82"
+hash = "e34d14ea8fa1f546b7764cbd112ef7a9b6651c8f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4708031
+file-id = 4363345
 project-id = 364120
