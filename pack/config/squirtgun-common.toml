@@ -1,0 +1,16 @@
+
+#Fluid Encapsulator
+[encapsulator]
+	#Default: 100000 (100 buckets)
+	#Range: > 1
+	fluidCapacity = 100000
+	#Default: 50 FE
+	#Range: > 0
+	energyPerTick = 50
+	#Default: 60 ticks
+	#Range: > 1
+	ticksPerOperation = 60
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 100000
+

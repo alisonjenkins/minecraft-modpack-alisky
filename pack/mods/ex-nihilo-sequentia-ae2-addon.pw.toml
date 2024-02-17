@@ -1,13 +1,13 @@
 name = "Ex Nihilo: Sequentia - AE2 Addon"
-filename = "ExNihiloAE-1.18.2-20230528-221633.jar"
+filename = "ExNihiloAE-1.18.2-20220607-014628.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "02998e0d66d7ebd3456e875dad7d96868fa9a6a7"
+hash = "8dfd6058393ce406100a00fb28c5d8f61fe2d1fd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4556978
+file-id = 3820276
 project-id = 428204
