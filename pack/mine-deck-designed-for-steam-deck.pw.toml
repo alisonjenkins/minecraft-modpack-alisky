@@ -1,0 +1,13 @@
+name = "Mine Deck | Designed for Steam Deck"
+filename = "MineDeck 1.18.2 (Lightly Modded).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccdbc47979f247df593ade1cd3e872019bae43e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4098272
+project-id = 705471

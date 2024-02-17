@@ -2829,6 +2829,11 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "a59aee23e885cecb4ddca4655f4c77d5f4c9487dbe5f28cfc248a8223bedd4d4"
 
 [[files]]
+file = "mine-deck-designed-for-steam-deck.pw.toml"
+hash = "d7d74c3b7d2d62b8231efde63333612d52597d4dc2d8da2eb09bcd2c3f2ed0c8"
+metafile = true
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "d1f108d2420df1ab0027cebc4ef8525ac09ace0d3a7e433dade46446708c0dd4"
 metafile = true
